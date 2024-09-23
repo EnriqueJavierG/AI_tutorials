@@ -1,6 +1,4 @@
 # Code from module 1
-
-from IPython.display import display_html
 from typing import List, Tuple, Dict, Callable
 from copy import deepcopy
 import math
